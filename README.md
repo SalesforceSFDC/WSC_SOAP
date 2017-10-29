@@ -1,5 +1,5 @@
 # WSC SOAP
 
-:wolf:
+:wolf: Vuk Dukic
 
 :bear:
